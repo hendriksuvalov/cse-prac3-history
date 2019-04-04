@@ -1,0 +1,4 @@
+1) 11
+2) Mar 20, 2018
+3) Stopa
+4) "Added local configuration data"
